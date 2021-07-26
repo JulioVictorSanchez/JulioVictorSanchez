@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Julio Víctor
 #### I'm a Back-End Python developer
-![I'm a Back-End Python developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a Computer Systems Engineer graduated from the National Technological Institute of Mexico. My professional experience focuses on scientific research and development, which has led me to carry out stays in institutions such as: CINVESTAV - Tamaulipas Unit, Technological Institute of Tuxtla Gutiérrez and in the "Distributed Computing" research department of TecNM Los Ríos. Some of my areas of interest are natural language processing, data analysis, and machine learning.
 
