@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Julio Víctor
+#### I'm a Back-End Python developer
+![I'm a Back-End Python developer](https://drive.google.com/file/d/1XTeAurudGaj3Q_QHgZwmT2kwsufoG2rY/view?usp=sharing)
 
-<!--
-**JulioVictorSanchez/JulioVictorSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Systems Engineer graduated from the National Technological Institute of Mexico. My professional experience focuses on scientific research and development, which has led me to carry out stays in institutions such as: CINVESTAV - Tamaulipas Unit, Technological Institute of Tuxtla Gutiérrez and in the "Distributed Computing" research department of TecNM Los Ríos. Some of my areas of interest are natural language processing, data analysis, and machine learning.
 
-Here are some ideas to get you started:
+Skills: PYTHON / PANDAS / OPENCV / NLTK / DJANGO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this repository 
+- 🌱 I’m currently learning Docker 
+- 💬 Ask me about python basics, natural language processing, or data analysis 
+- ⚡ Fun fact: I am a very talkative person even if it does not seem like it 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JulioVictorSanchez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juliovictorsanchez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JulioSchez08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_julioschez_/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioVictorSanchez)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioVictorSanchez&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/JulioVictorSanchez)  
